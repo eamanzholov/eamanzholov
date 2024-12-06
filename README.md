@@ -4,10 +4,9 @@
 - 🌱 **I’m currently learning:** Kubernetes, Docker, and advanced C++ features.  
 - 💞️ **I’m looking to collaborate on:** Open-source DevOps tools, backend architecture projects, or cloud-native applications.  
 - 📫 **How to reach me:**  
-  - Email: e.amanzholov@gmail.com 
-  - LinkedIn: [linkedin.com/in/yerjan-amanjolov](#)  
-  - Telegram: [@yerjan_dev](#)  
-
+  - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:e.amanzholov@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yerjan-amanjolov)
+  - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/yerjan_dev)
 - 😄 **Pronouns:** He/Him.  
 - ⚡ **Fun fact:** I began my journey in IT at **School 21**, where I gained hands-on experience in developing static libraries and utilities in C and C++. I also had the opportunity to serve as a **team leader** in several exciting projects, honing my skills in team collaboration, task management, and problem-solving.
 
