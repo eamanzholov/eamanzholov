@@ -29,6 +29,8 @@ If you're working on something exciting or want to collaborate, feel free to rea
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-003F91?style=flat&logo=githubactions&logoColor=white)
 
 #### Cloud Platforms:
