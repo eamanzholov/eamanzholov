@@ -7,13 +7,17 @@
   - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:e.amanzholov@gmail.com)
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yerjan-amanjolov)
   - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/yerjan_dev)
-- ⚡ **Fun fact:** I began my journey in IT at **School 21**, where I gained hands-on experience in developing static libraries and utilities in C and C++. I also had the opportunity to serve as a **team leader** in several exciting projects, honing my skills in team collaboration, task management, and problem-solving.
+
+- ⚡ **Fun fact:** I began my journey in IT at **School 21**, where I gained hands-on experience in developing static libraries and utilities in C and C++. I also had the opportunity to serve as a **team leader** in several exciting projects, honing my skills in team collaboration, task management, and problem-solving.  
+
+In addition to my technical work, I was actively involved in **volunteering at School 21**, where I helped new students navigate the program, facilitated peer learning, and contributed to creating a collaborative and supportive learning environment.  
 
 ### Highlights of my journey:
 - 🌟 **Built from scratch:** Designed and implemented static libraries and core utilities in both C and C++ during my training.  
 - 🤝 **Team Leadership:** Successfully led teams in various collaborative projects, ensuring timely delivery and high-quality code.  
 - 🔧 **Automation Enthusiast:** I enjoy automating repetitive tasks and optimizing workflows with tools like Bash, Python, and CI/CD pipelines.  
-- 🎯 **Currently focused on:** Exploring scalable backend solutions and cloud-native development.
+- 🎯 **Currently focused on:** Exploring scalable backend solutions and cloud-native development.  
+- ❤️ **Volunteering:** Actively supported peers as a mentor and contributor to community events at School 21.  
 
 If you're working on something exciting or want to collaborate, feel free to reach out!
 
